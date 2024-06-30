@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7985174634618392537
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water2
+  m_Shader: {fileID: -6465566751694194690, guid: 25f367ffcba74564d81e51770cc097ae, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_1db40d11542e4bfaae3407155182bb21_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 799d8aca31ecc2b4da0341edcf097d31, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_f115d591776742f380c691ac9ec4de91_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 799d8aca31ecc2b4da0341edcf097d31, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2D:
+        m_Texture: {fileID: 2800000, guid: d2e3f5bc29dacbb489fac4be1a75b920, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_QueueOffset: 0
+    - _Brightness: 1
+    - _Direction1: 33.33
+    - _Direction2: -33.33
+    - _GolvenGrote: 0
+    - _GolvenHoogte: 0.005
+    - _GolvenSpeed: 0.155
+    - _Image_Texture: 0
+    - _Normal_strenght: 0.162
+    - _Refraction: 2
+    - _Size: 4
+    - _Smoothness: 1
+    - _Speed: 0.097
+    - _Speed_2: 0.288
+    - _WaterDiepte: 5
+    m_Colors:
+    - _Diepwater_kleur: {r: 0.10166605, g: 0.25054783, b: 0.4113207, a: 1}
+    - _Ondiepwater_kleur: {r: 0.09019606, g: 0.58431375, b: 0.4889767, a: 0}
+  m_BuildTextureStacks: []
